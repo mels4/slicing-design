@@ -5,6 +5,6 @@ import TitleItem from '@components/TitleItem.vue'
 
 <template>
   <section class="w-full min-h-screen" id="program">
-    <TitleItem title="abc" />
+    <TitleItem title="program ananannan" />
   </section>
 </template>

@@ -107,6 +107,7 @@ onMounted(() => {
           <router-link :to="item.href" @click="clickItem(item.href)" class="py-2 px-4"
             :class="{ 'bg-white rounded-full text-black': itemActive(route, item.href) }">{{ item.name }}
           </router-link>
+          <!-- <router-link to="/vacation"> selengkapnya</router-link> -->
         </li>
       </ul>
       <div class="lg:flex-1 flex justify-end">

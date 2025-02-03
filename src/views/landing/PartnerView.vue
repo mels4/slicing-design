@@ -6,7 +6,7 @@ import FooterView from '@/components/FooterView.vue';
 
 <template>
   <NavBar />
-  <main class="min-h-screen">
+  <main class="min-h-screen bg-amber-900">
 
   </main>
   <FooterView />
